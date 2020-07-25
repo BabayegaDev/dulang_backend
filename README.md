@@ -1,5 +1,5 @@
 # dulang_backend
-This is the backend files for dulang
+This is the backend files for Dulang
 
 Title: DULANG 
 
@@ -13,3 +13,10 @@ MIMI FARHANA BINTI RADUAN (B17CS3007)
 MUHAMMAD IMRAN BIN AHMAD SHABULI (B18CS0014)
 NUR NADIRA EZRIN BINTI HAIRUDIN (B18CS0021)
 SYED ABDUL QUDDUS AL-KHERED BIN SYED JAMAL ABDUL NASIR (A18CS0346)
+
+Video URL: 
+youtube.com/watch?v=6DLIEiCmG8M
+
+Git Link:
+Front end: https://github.com/BabayegaDev/project_dulang.git
+Back End: https://github.com/BabayegaDev/dulang_backend.git
